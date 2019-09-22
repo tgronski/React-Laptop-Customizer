@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import Header from './Header';
+import Header from './Cart/Header';
 import './App.css'
 import Cart from './Cart/Cart'
-import Features from './Features'
+import Features from './Cart/Features'
 
 
 class App extends Component {
